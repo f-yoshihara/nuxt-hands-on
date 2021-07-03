@@ -1,3 +1,3 @@
 <template>
-    <h1>Hello!!!!!!!!!!!!!!</h1>
+    <h1>this page is entry point</h1>
 </template>
